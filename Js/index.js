@@ -19,4 +19,4 @@ store.addEventListener("click", function () {
 });
 otherGames.addEventListener("click", function () {
   window.location.href = "https://www.microsoft.com/en-in/store/games";
-});fix this page
+});
