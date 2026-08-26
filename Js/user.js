@@ -37,7 +37,7 @@ let modal = document.getElementById("myModal");
   };
   window.onclick = function (event) {
     if (event.target == modal) {
-      modal.style.display = "none";
+      onclick.style.display = "none";
     }
   };
 }
